@@ -1,2 +1,2 @@
-# web
+# MiniWeb_MVC
 mvc
